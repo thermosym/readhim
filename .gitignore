@@ -1,0 +1,30 @@
+# configuration file
+#my.conf
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+#sessions
+#tmp
+#upload
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.exe
+*.exe~
+
+readhim
+
+swagger/
+swagger.zip
+
+lastupdate.tmp
+
+#sublime project files
+project.sublime-project
+project.sublime-workspace
